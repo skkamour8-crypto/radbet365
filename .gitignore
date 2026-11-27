@@ -1,0 +1,16 @@
+/vendor
+/node_modules
+/.env
+/.env.backup
+/.phpunit.cache
+/.idea
+/.vscode
+/.fleet
+/.zed
+/public/build
+/public/hot
+/storage/*.key
+/storage/logs/*
+/bootstrap/cache/*
+/database/*.sqlite
+.DS_Store
